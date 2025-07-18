@@ -3,7 +3,7 @@ import os
 import json
 import hashlib
 
-
+# configuration
 HOST = '0.0.0.0'
 PORT = 9001
 BUFFER_SIZE = 4096
